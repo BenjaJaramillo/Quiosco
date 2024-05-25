@@ -30,7 +30,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 25/05/2024
 
-## Primera Actualizacion
+## Actualizacion 1
 
 Configuración del Proyecto - 10:44 am
 
@@ -48,13 +48,13 @@ Router de la Aplicación: Sí
 
 Alias de Importación (@/\*): No
 
-## Segunda Actualizacion - 11:00 am
+## Actualizacion 2 - 11:00 am
 
 Creación de carpetas ProductPage y CreateProductPage
 
 Creación de los contenedores principales
 
-## Tercera Actualizacion - 11:50 am
+## Tercera Actualizacion 3 - 11:50 am
 
 Instalación de Prisma y generación del schema
 
@@ -66,7 +66,7 @@ npx prisma init
 
 Creación de la base de datos en render
 
-## Cuarta Actualizacion - 12:15 pm
+## Cuarta Actualizacion 4 - 12:15 pm
 
 Modelos en Prisma
 
@@ -76,15 +76,48 @@ Migrar los productos cada vez que se hagan cambios
 
 npx prisma migrate dev
 
-## Quinta Actualizacion Seeding - 12:30
+## Quinta Actualizacion 5 Seeding - 12:30
 
 Agregar datos
 
 instalar la dependencia de ts-node
 npm i -D ts-node
 
-ya confirado todo se obtuvieron los datos con el comando
+ya configurado todo se obtuvieron los datos con el comando:
 
 npx prisma db seed
 
-## Hasta aqui la app tiene base de datos y Contenedores principales- 1:00
+## Hasta aqui la app tiene base de datos y Contenedores principales- 13:00
+
+## Actualizacion 6 Data Fetching en Next.js - 13:00
+
+Hasta aqui la app obtiene datos de manera correcta
+y los muestra en consola
+
+## Actualizacion 7 iterando sobre las categorias 13:30
+
+Hasta aqui la aplicacion muestra ya en el servidor las categorias de la base de datos
+
+## Actualizacion 8 Mostrando las Categorias y los iconos 13:50
+
+Hasta aqui la aplicacion muestra el icono junto con su nombre en el servidor
+
+## Actualizacion 9 Routing dinamico- 14:00
+
+Hasta aqui la aplicacion detecta el click en categoria
+
+## Actualizacion 10 Detectar la categoria actual y obtener los productos 3:00
+
+La aplicacion al dar click en la categoria muestra una consulta a la base de datos de los productos en existencia
+
+## Actualizacion 11 iterando sobre productos 3:20
+
+La aplicacion ya muestra los paquetes y sus precios en el servidor
+
+## Actualizacion 12 Finalizando los Card de productos
+
+Muestra los componentes de los productos, imagen y boton para agregar al pedido
+
+## Actualizacion 13 Resaltando la categoria actual
+
+Resalta la categoria en la cual nos encontramos
