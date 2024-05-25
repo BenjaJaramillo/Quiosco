@@ -26,15 +26,65 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Primer Paso
+## Registro de Progreso
 
-Configuracion Proyecto 25/05/2024 10:44 am
+25/05/2024
 
-Creacion Proyecto
-npx-next.app@latest
-TypeScript yes
-ESLINT yes
-Tailwind CSS yes
-src/ directory no
-App Router yes
-import alias (@/\*) no
+## Primera Actualizacion
+
+Configuración del Proyecto - 10:44 am
+
+Creación del Proyecto con npx-next.app@latest
+
+TypeScript: Sí
+
+ESLint: Sí
+
+Tailwind CSS: Sí
+
+Directorio src/: No
+
+Router de la Aplicación: Sí
+
+Alias de Importación (@/\*): No
+
+## Segunda Actualizacion - 11:00 am
+
+Creación de carpetas ProductPage y CreateProductPage
+
+Creación de los contenedores principales
+
+## Tercera Actualizacion - 11:50 am
+
+Instalación de Prisma y generación del schema
+
+npm i @prisma/client
+
+npm i -D prisma
+
+npx prisma init
+
+Creación de la base de datos en render
+
+## Cuarta Actualizacion - 12:15 pm
+
+Modelos en Prisma
+
+Comenzar a crear la base de datos
+
+Migrar los productos cada vez que se hagan cambios
+
+npx prisma migrate dev
+
+## Quinta Actualizacion Seeding - 12:30
+
+Agregar datos
+
+instalar la dependencia de ts-node
+npm i -D ts-node
+
+ya confirado todo se obtuvieron los datos con el comando
+
+npx prisma db seed
+
+## Hasta aqui la app tiene base de datos y Contenedores principales- 1:00
