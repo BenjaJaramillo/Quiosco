@@ -106,18 +106,18 @@ Hasta aqui la aplicacion muestra el icono junto con su nombre en el servidor
 
 Hasta aqui la aplicacion detecta el click en categoria
 
-## Actualizacion 10 Detectar la categoria actual y obtener los productos 3:00
+## Actualizacion 10 Detectar la categoria actual y obtener los productos 15:00
 
 La aplicacion al dar click en la categoria muestra una consulta a la base de datos de los productos en existencia
 
-## Actualizacion 11 iterando sobre productos 3:20
+## Actualizacion 11 iterando sobre productos 15:20
 
 La aplicacion ya muestra los paquetes y sus precios en el servidor
 
-## Actualizacion 12 Finalizando los Card de productos
+## Actualizacion 12 Finalizando los Card de productos 15:30
 
 Muestra los componentes de los productos, imagen y boton para agregar al pedido
 
-## Actualizacion 13 Resaltando la categoria actual
+## Actualizacion 13 Resaltando la categoria actual 15:40
 
 Resalta la categoria en la cual nos encontramos
