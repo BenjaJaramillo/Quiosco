@@ -199,8 +199,24 @@ La aplicacion valida el resto de la orden
 
 La aplicacion ingresa ordenes a la base
 
-## Actualizacion 33 Evita Ordenes duplicadas
+## Actualizacion 33 Evita Ordenes duplicadas 13:40
 
 Al momento de presionar agregar pedido la app lanza mensaje de orden agregada
 
 ## Hasta aqui la aplicacion ya hace todo lo relacionado con el pedido
+
+## Actualizacion 34 Creando las rutas y layout 15:00
+
+Tanto el quiosco y el Panel de admin renderiza el Logo
+
+## Actualizacion 35 Navegacion en el panel de administracion 15:10
+
+Contenedores y formato para el panel de administracion completado
+
+## Actualizacion 36 Obtiene las ordenes pendientes 15:20
+
+Obtinee la ordenes de la base de datos y las muestra en consola
+
+## Actualizacion 37 Muestra las ordenes pendientes 15:30
+
+Muestra las ordenes ahora si en el panel de administarcion del servidor visualmente
