@@ -181,3 +181,26 @@ Comandos ZOD:
 npm i zod
 
 valida tanto el cliente como el servidor
+
+## Actualizacion 29 Muestra errores de validacion con Toast 13:11
+
+La aplicacion muestra el mensaje de al cliente de que su nombre debe ser obligatorio
+npm i react-toastify
+
+## Actualizacion 30 Valida datos con ZOD en el servidor 13:20
+
+La aplicacion muestra los mismos mensajes que la actualizacion 29 pero ahora desde el servidor
+
+## Actualizacion 31 Valida el resto de la orden 13:30
+
+La aplicacion valida el resto de la orden
+
+## Actualizacion 32 Ingresa Datos a la base de datos 13:35
+
+La aplicacion ingresa ordenes a la base
+
+## Actualizacion 33 Evita Ordenes duplicadas
+
+Al momento de presionar agregar pedido la app lanza mensaje de orden agregada
+
+## Hasta aqui la aplicacion ya hace todo lo relacionado con el pedido
