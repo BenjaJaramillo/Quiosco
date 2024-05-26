@@ -32,7 +32,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Actualizacion 1
 
-Configuración del Proyecto - 10:44 am
+Configuración del Proyecto - 10:30 am
 
 Creación del Proyecto con npx-next.app@latest
 
@@ -54,7 +54,7 @@ Creación de carpetas ProductPage y CreateProductPage
 
 Creación de los contenedores principales
 
-## Tercera Actualizacion 3 - 11:50 am
+## Actualizacion 3 - 11:50 am
 
 Instalación de Prisma y generación del schema
 
@@ -66,7 +66,7 @@ npx prisma init
 
 Creación de la base de datos en render
 
-## Cuarta Actualizacion 4 - 12:15 pm
+## Actualizacion 4 - 12:15 pm
 
 Modelos en Prisma
 
@@ -76,7 +76,7 @@ Migrar los productos cada vez que se hagan cambios
 
 npx prisma migrate dev
 
-## Quinta Actualizacion 5 Seeding - 12:30
+## Actualizacion 5 Seeding - 12:30
 
 Agregar datos
 
@@ -136,4 +136,19 @@ Agrega elementos a nuestra orden pero lo muestra en consola
 
 ## Actualizacion 17 Agrega articulas a la orden 16:25
 
-La aplicacion ya agrega elementos a la orden visualmente por el momento muestra si hay o no hay algo en el carrito
+La aplicacion ya agrega elementos a la orden visualmente por el momento muestra el mensaje si hay o no hay algo en el carrito
+
+## Actualizacion 18 Mostrando los articulos a la orden 16:35
+
+La aplicacion ya muestra mi pedido con la descripcion cantidad, precio y subtotal.
+Visualmente en el servidor
+
+## Actualizacion 19 Evita duplicados 16:50
+
+Al presionar multiples veces en el articulo ya no añade el mismo solucionado
+
+Ademas si presionas el boton agregar se actualiza la cantidad de producto y el subtotal
+
+## Actualizacion 20 Incremntando la Cantidad de un articulo 17:05
+
+SE hizo funcionar el boton de + para incrementar las cantidades
