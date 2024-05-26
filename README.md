@@ -121,3 +121,19 @@ Muestra los componentes de los productos, imagen y boton para agregar al pedido
 ## Actualizacion 13 Resaltando la categoria actual 15:40
 
 Resalta la categoria en la cual nos encontramos
+
+## Actualizacion 14 Se creo el Store de Zustand 15:50
+
+npm i zustand
+
+## Actualizacion 15 consume el state de orden 16:00
+
+La aplicacion consume el store, la orden aparece en pedido por el momento muestra el texto carrito esta vacio
+
+## Actualizacion 16 Comunica el boton con la store 16:10
+
+Agrega elementos a nuestra orden pero lo muestra en consola
+
+## Actualizacion 17 Agrega articulas a la orden 16:25
+
+La aplicacion ya agrega elementos a la orden visualmente por el momento muestra si hay o no hay algo en el carrito
