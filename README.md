@@ -149,6 +149,20 @@ Al presionar multiples veces en el articulo ya no añade el mismo solucionado
 
 Ademas si presionas el boton agregar se actualiza la cantidad de producto y el subtotal
 
-## Actualizacion 20 Incremntando la Cantidad de un articulo 17:05
+## Actualizacion 20 Incrementando la Cantidad de un articulo 17:05
 
-SE hizo funcionar el boton de + para incrementar las cantidades
+Se hizo funcionar el boton de + para incrementar las cantidades
+
+## Actualizacion 21 Decrementando la Cantidad de un articulo 17:20
+
+Se Habilita el boton de - para quitar articulos y se actualiza el subtotal con ello
+
+## Actualizacion 22 Eliminar Articulos de la Orden 17:30
+
+Se habilita el boton x para quitar articulos del carrito
+
+## Actualizacion 23 Calculando Total a pagar 17:40
+
+La aplicacion te dice el total a pagar de varios articulos
+
+## Hasta aqui la aplicacion ya hace toda la parte de las ordenes
