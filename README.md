@@ -238,3 +238,20 @@ La aplicacion marca como completa la orden, cambia el estado y muestra la hora e
 Revalida de forma manual nuestros datos
 
 ## Hasta aqui ya esta toda la parte de ordenes de la aplicacion
+
+## Actualizacion 42 Lista los productos 10:30
+
+Se comienza a realizar el apartado de productos
+se muestra en el servidor el producto, precio, categoria y editar
+
+## Actualizacion 43 Incluye la categoria en la tabla 10:40
+
+Muestra la categoria del producto ya que antes la aplicacion mostraba solo el id de la categoria
+
+## Actualizacion 44 Crea un paginador 10:50
+
+Para que no tarde la pagina en recargar los productos los muestra de 10 en 10
+
+## Actualizacion 45 Creando routing para navegar en el paginador
+
+La aplicacion tiene los botones para navegar entre el paginador
