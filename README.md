@@ -220,3 +220,21 @@ Obtinee la ordenes de la base de datos y las muestra en consola
 ## Actualizacion 37 Muestra las ordenes pendientes 15:30
 
 Muestra las ordenes ahora si en el panel de administarcion del servidor visualmente
+
+## Actualizacion 38 Muestra el contenido de la orden 17:00
+
+La aplicacion muestra de manera detallada la orden y se le dio formato para que se visualizara mas amigable la interfaz grafica.
+
+## Actualizacion 39 La aplicacion hace la accion para completar las ordenes 17:06
+
+Se tiene el esqueleto para empezar a manipular la accion de compeltar ordenes
+
+## Actualizacion 40 Marca ordenes como completadas y validacion 17:20
+
+La aplicacion marca como completa la orden, cambia el estado y muestra la hora en la cual se completo
+
+## Actualizacion 41 Revalida datos con next.js 17:25
+
+Revalida de forma manual nuestros datos
+
+## Hasta aqui ya esta toda la parte de ordenes de la aplicacion
