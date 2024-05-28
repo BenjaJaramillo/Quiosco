@@ -350,3 +350,12 @@ Todo lo relacionado con edit productos funciona
 
 npm i swr
 Ya funciona mejor la interfaz de usuario de admin para actualizar pedidos
+
+## Actualizacion 67 Crea el Endpoint de API y Pantalla de ordenes listas
+
+La aplicacion ya tiene la pantalla de ordenes
+pero aun no muestra las ordenes
+
+## Actualizacion 68 Consume el endpoint y muestra las ordenes listas
+
+Hasta aqui ya hace todas las funcionalidades
