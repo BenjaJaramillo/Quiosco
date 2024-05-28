@@ -239,6 +239,8 @@ Revalida de forma manual nuestros datos
 
 ## Hasta aqui ya esta toda la parte de ordenes de la aplicacion
 
+## 27/05/2024
+
 ## Actualizacion 42 Lista los productos 10:30
 
 Se comienza a realizar el apartado de productos
@@ -285,3 +287,41 @@ Recupera el valor pero en consola, todavia no lo muestra visualmente
 Muestra los resultados de busqueda de manera visual y busca por palabra
 
 ## Hasta aqui la aplicacion tiene el apartado administrar los productos y buscarlos
+
+## Actualizacion 53 Routing y Formulario para crear productos 17:55
+
+Se hizo el formulario para añadir producto y se le dio estilos
+
+## Actualizacion 54 Muestra las categorias en el formulario 18:10
+
+Obtiene las categorias en el formulario
+
+## Actualizacion 55 resuelve problemas cliente servidor 18:15
+
+## Actualizacion 56 Composicion para utilizar server components dentri de client components 18:25
+
+La aplicacion ya no tiene errores de cliente servidor
+
+## Actualizacion 57 Valida la creacion de productos 18:35
+
+La aplicacion crea productos pero solo los muestra en consola y manda mensajes de retroalimentacion
+
+## Actualizacion 58 Cloudinary para subir imagenes 18:40
+
+instalar
+apikey: 372731215185468
+npm i next-cloudinary
+configuraciones de cloudinary para poder subir imagenes
+
+## Actualizacion 59 Crea el Componente para subir imagenes 18:50
+
+sube imagenes con next-cloudinary
+uploadPreset="gshf8l3w"
+
+## Actualizacion 60 Obtiene la URL de la imagen que se sube 19:00
+
+Se sube de manear visual al apartado de imagenes
+
+## Actualizacion 61 Almacenando el Producto a la base de datos 19:10
+
+Guardar el producto con sus respectivos campos en el fromulario
