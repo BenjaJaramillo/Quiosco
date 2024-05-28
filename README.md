@@ -324,4 +324,6 @@ Se sube de manear visual al apartado de imagenes
 
 ## Actualizacion 61 Almacenando el Producto a la base de datos 19:10
 
-Guardar el producto con sus respectivos campos en el fromulario
+Guardar el producto con sus respectivos campos en el formulario
+
+## Hasta aqui la aplicacion en el apartado de administrar productos , crea productos , busca productos y guarda los productos creados
