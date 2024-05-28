@@ -320,10 +320,28 @@ uploadPreset="gshf8l3w"
 
 ## Actualizacion 60 Obtiene la URL de la imagen que se sube 19:00
 
-Se sube de manear visual al apartado de imagenes
+Se sube de manera visual al apartado de imagenes
 
 ## Actualizacion 61 Almacenando el Producto a la base de datos 19:10
 
 Guardar el producto con sus respectivos campos en el formulario
 
 ## Hasta aqui la aplicacion en el apartado de administrar productos , crea productos , busca productos y guarda los productos creados
+
+## 28/05/2024
+
+## Actualizacion 62 Obtiene el producto a editar 8:30
+
+La aplicacion ya tiene la pagina editar y el apartado not-found cunado el usuario digita un producto que no existe
+
+## Actualizacion 63 Ajusta el formulario de edicion y llena los campos automaticamente 8:40
+
+El Formulario de editar obtiene los valores d elos productos actuales y llena el formulario de manera automatica
+
+## Actualizacion 64 Valida las imagenes 8:50
+
+Esta actualzacion muestra la imagen actual y despues la esconde cuando se sube la nueva imagen (EditProduct)
+
+## Actualizacion 65 Guarda los cambios de Productos 9:00
+
+Todo lo relacionado con edit productos funciona
