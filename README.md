@@ -345,3 +345,8 @@ Esta actualzacion muestra la imagen actual y despues la esconde cuando se sube l
 ## Actualizacion 65 Guarda los cambios de Productos 9:00
 
 Todo lo relacionado con edit productos funciona
+
+## Actualizacion 66 Crea un Endpoint de API para swr 9:15
+
+npm i swr
+Ya funciona mejor la interfaz de usuario de admin para actualizar pedidos
