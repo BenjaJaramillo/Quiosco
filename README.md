@@ -252,6 +252,36 @@ Muestra la categoria del producto ya que antes la aplicacion mostraba solo el id
 
 Para que no tarde la pagina en recargar los productos los muestra de 10 en 10
 
-## Actualizacion 45 Creando routing para navegar en el paginador
+## Actualizacion 45 Creando routing para navegar en el paginador 11:00
 
 La aplicacion tiene los botones para navegar entre el paginador
+
+## Actualizacion 46 Calcula total de paginas 17:00
+
+En esta actualizacion se le da estilo al boton de paginacion y se le añade el limite de paginas
+
+## Actualizacion 47 Se añadio el boton de pagina anterior 17:10
+
+En esta actualizacion se añadio el boton de regresar pagina y se añadieron validaciones
+
+## Actualizacion 48 Se añadio paginador por numeros 17:15
+
+Se añade numero de pagina y se le da estilos al boton
+
+## Actualizacion 49 Se añade un formulario de busqueda de productos 17:22
+
+Se añadio el boton de crear prosuctos y el buscador de productos, falta añadir las acciones de dichos botones
+
+## Actualizacion 50 Validando el buscador 17:30
+
+Pasa la validacion de buscar por producto muestra mensaje cuando el campo esta vacio y redirecciona al apartado de busqueda
+
+## Actualizacion 51 Recupera el valor de busqueda 17:35
+
+Recupera el valor pero en consola, todavia no lo muestra visualmente
+
+## Actualizacioin 52 Muestra los resultados de busqueda 17:45
+
+Muestra los resultados de busqueda de manera visual y busca por palabra
+
+## Hasta aqui la aplicacion tiene el apartado administrar los productos y buscarlos
